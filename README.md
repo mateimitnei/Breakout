@@ -4,14 +4,14 @@ OpenGL-based API from my University. The source code I wrote is found in
 [this directory](./src/lab_m1/Tema1/)
 
 ## How to Run the Game  
-- Check `API_README.md` for a complete tutorial or try the commands below
+- Check the [API's Readme](API_README.md) for a complete tutorial or try the commands below
 in a Linux terminal:  
 
     - `mkdir build && cd build`
     - `cmake ..`  
     - `make`  
     - `./bin/Debug/GFXFramework`: a new window should open.
-
+<br>
 
     <img src=image.png width="40%" />
 
