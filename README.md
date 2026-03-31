@@ -10,9 +10,9 @@ in a Linux terminal:
     - `mkdir build && cd build`
     - `cmake ..`  
     - `make`  
-    - `./bin/Debug/GFXFramework`: a new window should open.
-<br>
-
+    - `./bin/Debug/GFXFramework`: a new window should open.  
+  
+  
     <img src=image.png width="40%" />
 
 ## Gameplay Tutorial
