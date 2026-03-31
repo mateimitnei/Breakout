@@ -1,7 +1,6 @@
 ## Description
 A personal implementation of the famous Breakout arcade game with C++ and an  
-OpenGL-based API from my University. The source code I wrote is found in  
-[this directory](./src/lab_m1/Tema1/).
+OpenGL-based API from my University. The source code I wrote is found in [this directory](./src/lab_m1/Tema1/).
 
 ## How to Run the Game  
 - Check the [API's Readme](API_README.md) for a complete tutorial or try the commands below
